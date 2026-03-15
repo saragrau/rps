@@ -8,7 +8,9 @@ import type {
   ApiListResponse,
 } from './types';
 
-const BASE_URL = (import.meta as { env?: { VITE_API_URL?: string } }).env?.VITE_API_URL ?? 'http://localhost:3001';
+// Empty string in dev → requests go to /api/... → Vite proxy forwards to :3001.
+// In production set VITE_API_URL to the deployed backend URL.
+const BASE_URL: string = (import.meta as unknown as { env: Record<string, string> }).env['VITE_API_URL'] ?? '';
 
 async function apiFetch<T>(path: string): Promise<T> {
   const res = await fetch(`${BASE_URL}${path}`);
