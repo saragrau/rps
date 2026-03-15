@@ -1,0 +1,3905 @@
+{
+  "data": [
+    {
+      "type": "GAME_RESULT",
+      "gameId": "cd3c64215496a3a26af",
+      "time": 1773593785000,
+      "playerA": {
+        "name": "Elena Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Arjun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8655a794a46e2e8e3181541",
+      "time": 1773592564000,
+      "playerA": {
+        "name": "Ingrid Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Priya Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e1078d069867da71841",
+      "time": 1773593644000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Aiko Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "995255ab6a4e48d650",
+      "time": 1773593249000,
+      "playerA": {
+        "name": "Priya Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "77aabed9884f7052b1ec6",
+      "time": 1773591697000,
+      "playerA": {
+        "name": "Layla Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c701fe9b29ad11f1c4",
+      "time": 1773590418000,
+      "playerA": {
+        "name": "Omar Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Carmen Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "943e787861b0dee2d4f57",
+      "time": 1773593564000,
+      "playerA": {
+        "name": "Carmen Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "91cf6d9dc0fd71cc5a",
+      "time": 1773590953000,
+      "playerA": {
+        "name": "Layla Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Hiroshi Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "38e308d2dc1a7cbdb01119",
+      "time": 1773592988000,
+      "playerA": {
+        "name": "Elena Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6c7d6209aba7f203d8e7b",
+      "time": 1773593397000,
+      "playerA": {
+        "name": "Luca Silva",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "29194be822d2c7ad82418fef",
+      "time": 1773593210000,
+      "playerA": {
+        "name": "Omar Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Amara Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5287a43cc9b4b8967717",
+      "time": 1773592337000,
+      "playerA": {
+        "name": "Omar Okonkwo",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Aiko Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1f9414525fab5bc73a6c6e7",
+      "time": 1773593603000,
+      "playerA": {
+        "name": "Priya Silva",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Aiko Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7761afc007f29c9b9c2a",
+      "time": 1773592572000,
+      "playerA": {
+        "name": "Kwame Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Omar Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "58a000969f71374d015ad",
+      "time": 1773591959000,
+      "playerA": {
+        "name": "Layla Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Arjun Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7f2b17ae4ab3b48753",
+      "time": 1773591665000,
+      "playerA": {
+        "name": "Layla Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Layla Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1b376d92d5d5b97b2c9fb24",
+      "time": 1773591573000,
+      "playerA": {
+        "name": "Layla Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c2e73b46694615afb57",
+      "time": 1773590866000,
+      "playerA": {
+        "name": "Kwame Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fbab711186bb6d6103fae5",
+      "time": 1773592517000,
+      "playerA": {
+        "name": "Sofia Okonkwo",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Carmen Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bef5bca3dc27da4c58c",
+      "time": 1773590712000,
+      "playerA": {
+        "name": "Carmen Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Yuki Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "600242251386fd8e35",
+      "time": 1773590652000,
+      "playerA": {
+        "name": "Aiko Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5da2d8d9c6533f92106878b",
+      "time": 1773593426000,
+      "playerA": {
+        "name": "Luca Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Aiko Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "527b65f1f0a37c3fce",
+      "time": 1773591330000,
+      "playerA": {
+        "name": "Omar Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f999e394cf9a8db6ca9a",
+      "time": 1773592478000,
+      "playerA": {
+        "name": "Hiroshi Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Arjun Tanaka",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8a5b6e0e350235b4520",
+      "time": 1773593898000,
+      "playerA": {
+        "name": "Kwame Patel",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Ingrid Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "444e71ec2b11ab24c6b5570c",
+      "time": 1773592860000,
+      "playerA": {
+        "name": "Min-jun Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Carmen Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2dde46219d1cf89f817c9b",
+      "time": 1773591978000,
+      "playerA": {
+        "name": "Aiko Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "74a8668d37ec4d0386f",
+      "time": 1773591349000,
+      "playerA": {
+        "name": "Luca Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a9f7dacbbce497ffc4c4f2",
+      "time": 1773592514000,
+      "playerA": {
+        "name": "Carmen Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5f80cb2e7bd170e245802eb2",
+      "time": 1773590672000,
+      "playerA": {
+        "name": "Kwame Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1fccae9934a7caa4be5b",
+      "time": 1773593406000,
+      "playerA": {
+        "name": "Luca Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Priya Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e9e4f3d512aae3f284",
+      "time": 1773593282000,
+      "playerA": {
+        "name": "Luca Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c378837420a5d9df4e",
+      "time": 1773591013000,
+      "playerA": {
+        "name": "Sofia Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "abf29677da12bf86c9fc6cc",
+      "time": 1773593725000,
+      "playerA": {
+        "name": "Amara Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Priya Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4defd4058396b66258b4",
+      "time": 1773593836000,
+      "playerA": {
+        "name": "Hiroshi Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Omar Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6baefac8b426e1fbc2c",
+      "time": 1773591807000,
+      "playerA": {
+        "name": "Amara Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "316cdb0e08f7d89109ee8",
+      "time": 1773590511000,
+      "playerA": {
+        "name": "Amara Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Kwame Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "917e93580f1ee15a2a2069d2",
+      "time": 1773590407000,
+      "playerA": {
+        "name": "Kwame Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Kwame Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f8b7b5fe4278df97ea",
+      "time": 1773590879000,
+      "playerA": {
+        "name": "Hiroshi Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6719647272c410b604",
+      "time": 1773593864000,
+      "playerA": {
+        "name": "Yuki Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ec1f8d5a877c40c7222ec8f9",
+      "time": 1773591730000,
+      "playerA": {
+        "name": "Carmen Garcia",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Carmen Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c9f176c064b8f13964702",
+      "time": 1773591225000,
+      "playerA": {
+        "name": "Ingrid Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6da1db8cab60aac1f7c3e",
+      "time": 1773591540000,
+      "playerA": {
+        "name": "Kwame Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Hiroshi Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6ca779f8b6aaddc1bf",
+      "time": 1773592588000,
+      "playerA": {
+        "name": "Arjun Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Priya Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0c57ba1188667c82f06",
+      "time": 1773591280000,
+      "playerA": {
+        "name": "Carmen Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1afdfdeac8f8da4333eb7ec",
+      "time": 1773592345000,
+      "playerA": {
+        "name": "Amara Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Kwame Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c44d701ef788894dc682",
+      "time": 1773593399000,
+      "playerA": {
+        "name": "Yuki Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6d6044ef19d14f4976",
+      "time": 1773593323000,
+      "playerA": {
+        "name": "Elena Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Ingrid Patel",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ca271749230c2133301",
+      "time": 1773593257000,
+      "playerA": {
+        "name": "Min-jun Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Carmen Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "02621564ab3f3074809",
+      "time": 1773592801000,
+      "playerA": {
+        "name": "Priya Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Carmen Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f025752b02300259645",
+      "time": 1773590573000,
+      "playerA": {
+        "name": "Yuki Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Yuki Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a7d20ab1e08f06dcf4ba",
+      "time": 1773593173000,
+      "playerA": {
+        "name": "Layla Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "dc7329a541cbf941ad2746c",
+      "time": 1773591692000,
+      "playerA": {
+        "name": "Kwame Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Carmen Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "77d129c8770b56ecac57cb",
+      "time": 1773591777000,
+      "playerA": {
+        "name": "Sofia Garcia",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5ab084def1d32b7c72e0c",
+      "time": 1773593285000,
+      "playerA": {
+        "name": "Amara Okonkwo",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3bf77b8c7d7a6c4bbe7c",
+      "time": 1773593591000,
+      "playerA": {
+        "name": "Nia Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Nia Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "cf466a5d00da9a063171e6",
+      "time": 1773593438000,
+      "playerA": {
+        "name": "Kwame Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bdccd8c527850b5f9e9",
+      "time": 1773590562000,
+      "playerA": {
+        "name": "Mateo Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a22e22242cbfd77e731e",
+      "time": 1773591728000,
+      "playerA": {
+        "name": "Elena Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Kwame Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7b4dcc0b52767f87e4",
+      "time": 1773590509000,
+      "playerA": {
+        "name": "Amara Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "522fd4a635aff6d883d",
+      "time": 1773593719000,
+      "playerA": {
+        "name": "Mateo Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "60c2c4732a28fc37f6",
+      "time": 1773593435000,
+      "playerA": {
+        "name": "Yuki Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Mateo Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "973a12e8d10d149869fc7a7",
+      "time": 1773591539000,
+      "playerA": {
+        "name": "Sofia Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Luca Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "565586274292a7c1252",
+      "time": 1773593473000,
+      "playerA": {
+        "name": "Layla Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2c679ad946591ed531",
+      "time": 1773591317000,
+      "playerA": {
+        "name": "Aiko Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "67fd7f21e18c90ccd4207",
+      "time": 1773591841000,
+      "playerA": {
+        "name": "Omar Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4ab27b84e539186b10eb4764",
+      "time": 1773592509000,
+      "playerA": {
+        "name": "Yuki Garcia",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7e583c7371bc6a4556",
+      "time": 1773592842000,
+      "playerA": {
+        "name": "Yuki Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Carmen Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1f0ef5cb0342b4bfe4984bf",
+      "time": 1773591393000,
+      "playerA": {
+        "name": "Yuki Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Nia Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6fd3fda0245aa7b55097",
+      "time": 1773593321000,
+      "playerA": {
+        "name": "Ingrid Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Hiroshi Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e94c4122162e5048bc13ae",
+      "time": 1773592211000,
+      "playerA": {
+        "name": "Luca Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Luca Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f420a21d0b571799d5",
+      "time": 1773591063000,
+      "playerA": {
+        "name": "Carmen Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5ecfb9e952316ce69ae4",
+      "time": 1773593794000,
+      "playerA": {
+        "name": "Aiko Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Sofia Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0279084f0043b075139",
+      "time": 1773592515000,
+      "playerA": {
+        "name": "Hiroshi Garcia",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ca0ebb510aae33d3a615f755",
+      "time": 1773592272000,
+      "playerA": {
+        "name": "Luca Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2b7ea08696f41cef99bf54",
+      "time": 1773591474000,
+      "playerA": {
+        "name": "Amara Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Layla Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "59085b338e729054663172",
+      "time": 1773592553000,
+      "playerA": {
+        "name": "Nia Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Tanaka",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d4396ff70e71fad914b1",
+      "time": 1773591621000,
+      "playerA": {
+        "name": "Carmen Garcia",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0770c09c4dc47f9c72",
+      "time": 1773591733000,
+      "playerA": {
+        "name": "Arjun Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Kwame Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "efe8c7ba9265a773e188f27",
+      "time": 1773591782000,
+      "playerA": {
+        "name": "Omar Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Yuki Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4b2001305e9d087071",
+      "time": 1773591707000,
+      "playerA": {
+        "name": "Ingrid Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Sofia Patel",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6239cd2a48065c6ea0a44e6f",
+      "time": 1773590653000,
+      "playerA": {
+        "name": "Carmen Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f4c78c8599dfeb85ceb34",
+      "time": 1773592909000,
+      "playerA": {
+        "name": "Amara Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Sofia Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d939a3c2f3332aa2b9f",
+      "time": 1773590846000,
+      "playerA": {
+        "name": "Priya Garcia",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Carmen Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d18efbdf952f85b2206f",
+      "time": 1773591742000,
+      "playerA": {
+        "name": "Amara Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Hiroshi Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "15322ff691f73679346495b2",
+      "time": 1773593162000,
+      "playerA": {
+        "name": "Carmen Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e0a672e1338a90279c99ced8",
+      "time": 1773590810000,
+      "playerA": {
+        "name": "Hiroshi Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0c11fccb34fd71ff6041f",
+      "time": 1773592637000,
+      "playerA": {
+        "name": "Sofia Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8d00023a0e292bb7370b6e",
+      "time": 1773593861000,
+      "playerA": {
+        "name": "Carmen Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8edabb7e72f9a6e900bf",
+      "time": 1773593204000,
+      "playerA": {
+        "name": "Sofia Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Nia Tanaka",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b271fa04307312ec15",
+      "time": 1773593518000,
+      "playerA": {
+        "name": "Yuki Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "44414d424a7f27a2924e48c0",
+      "time": 1773592512000,
+      "playerA": {
+        "name": "Carmen Garcia",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6ee2bc0076d054331bdeadfc",
+      "time": 1773593330000,
+      "playerA": {
+        "name": "Yuki Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b4932ec1a22f9e69966",
+      "time": 1773592232000,
+      "playerA": {
+        "name": "Nia Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "043cb09c84e778f2c498b4e7",
+      "time": 1773593241000,
+      "playerA": {
+        "name": "Nia Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e3f4c4064567db4bec60",
+      "time": 1773592938000,
+      "playerA": {
+        "name": "Carmen Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4fd59f95109a6e5eb3c6",
+      "time": 1773593342000,
+      "playerA": {
+        "name": "Priya Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Arjun Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "077ef649b6477ff24ff71e0",
+      "time": 1773592496000,
+      "playerA": {
+        "name": "Mateo Patel",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "59b521df8289dd7885",
+      "time": 1773591128000,
+      "playerA": {
+        "name": "Kwame Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "981c205e037151f689e0ae",
+      "time": 1773593882000,
+      "playerA": {
+        "name": "Sofia Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Priya Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ecdc19969224968779c6",
+      "time": 1773590756000,
+      "playerA": {
+        "name": "Min-jun Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Kwame Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "be82c2efa2097106768f93",
+      "time": 1773593900000,
+      "playerA": {
+        "name": "Arjun Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Aiko Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6efa5319b30bb6ea90",
+      "time": 1773591830000,
+      "playerA": {
+        "name": "Omar Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "089639bf79fe147b8c087",
+      "time": 1773591553000,
+      "playerA": {
+        "name": "Min-jun Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Hiroshi Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "65515c55e679b4af0c734a3",
+      "time": 1773593532000,
+      "playerA": {
+        "name": "Yuki Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Aiko Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c3e31acc353f758548dd900",
+      "time": 1773591015000,
+      "playerA": {
+        "name": "Arjun Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Aiko Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4c801286144a52a39be2504",
+      "time": 1773590454000,
+      "playerA": {
+        "name": "Hiroshi Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6cbbef35f0006106a68bbe4",
+      "time": 1773593615000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Luca Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "402c07885bf3b631824ee",
+      "time": 1773592848000,
+      "playerA": {
+        "name": "Omar Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ec68a554f630b4734d7d",
+      "time": 1773591106000,
+      "playerA": {
+        "name": "Aiko Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "33b92107d08fdeeabbe",
+      "time": 1773590678000,
+      "playerA": {
+        "name": "Aiko Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ec712038b9bf7f8afbb7dc0",
+      "time": 1773592006000,
+      "playerA": {
+        "name": "Amara Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Arjun Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d2db6bc7780981656b",
+      "time": 1773590946000,
+      "playerA": {
+        "name": "Arjun Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Layla Tanaka",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b1595a00bd809154cf",
+      "time": 1773590741000,
+      "playerA": {
+        "name": "Aiko Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Luca Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "93b5567292be5884cb6c7",
+      "time": 1773592587000,
+      "playerA": {
+        "name": "Sofia Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2e007bb2ca31baa7385cc54",
+      "time": 1773593752000,
+      "playerA": {
+        "name": "Aiko Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a3e65978867373efe9b1e5ae",
+      "time": 1773590954000,
+      "playerA": {
+        "name": "Min-jun Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "9375c678bd189a9488dc6b",
+      "time": 1773593906000,
+      "playerA": {
+        "name": "Yuki Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fb221b9a4bc02ecdbfd4d79",
+      "time": 1773593513000,
+      "playerA": {
+        "name": "Kwame Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Elena Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f25ee94af6318f6546ba95a2",
+      "time": 1773593710000,
+      "playerA": {
+        "name": "Layla Garcia",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Luca Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7d069d8a91915e2cb210b",
+      "time": 1773593854000,
+      "playerA": {
+        "name": "Luca Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8cffac69f211024917",
+      "time": 1773592420000,
+      "playerA": {
+        "name": "Elena Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ee386acd93db84d7a9a",
+      "time": 1773593945000,
+      "playerA": {
+        "name": "Carmen Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Arjun Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "831acadcfaa417dffbcc",
+      "time": 1773592838000,
+      "playerA": {
+        "name": "Sofia Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5cf3d96e9145ba672a5",
+      "time": 1773592523000,
+      "playerA": {
+        "name": "Ingrid Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Layla Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a2bc69e72c6e5d33f8af",
+      "time": 1773590500000,
+      "playerA": {
+        "name": "Ingrid Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "446a90a33f3dd38bd771a9",
+      "time": 1773592722000,
+      "playerA": {
+        "name": "Hiroshi Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Carmen Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "59cff8dcb493b54ffa7",
+      "time": 1773592054000,
+      "playerA": {
+        "name": "Sofia Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Yuki Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c64f0141ceeac60769",
+      "time": 1773590967000,
+      "playerA": {
+        "name": "Elena Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e5b34401f76a2e02fa26ea",
+      "time": 1773593396000,
+      "playerA": {
+        "name": "Amara Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Amara Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "9d1ed96bda6f52e619816",
+      "time": 1773593114000,
+      "playerA": {
+        "name": "Amara Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Patel",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "56b61b76728bcc8af42bbca",
+      "time": 1773592810000,
+      "playerA": {
+        "name": "Ingrid Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d7d6b55fea0c8e21c4ca0c7e",
+      "time": 1773591501000,
+      "playerA": {
+        "name": "Luca Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "9f351fdab10e818814",
+      "time": 1773590572000,
+      "playerA": {
+        "name": "Mateo Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Amara Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "142e82aea1d4e67054a751",
+      "time": 1773593897000,
+      "playerA": {
+        "name": "Luca Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Carmen Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a3a59ea1ae80c9425fd6f2dc",
+      "time": 1773592446000,
+      "playerA": {
+        "name": "Arjun Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c1b48ee9512e91f4ed47",
+      "time": 1773593949000,
+      "playerA": {
+        "name": "Mateo Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "eab89b06b37ec7f94293bd23",
+      "time": 1773590888000,
+      "playerA": {
+        "name": "Carmen Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6711af761b61b5baf39",
+      "time": 1773590707000,
+      "playerA": {
+        "name": "Aiko Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3d23b9ee3d7c4804ef1",
+      "time": 1773591067000,
+      "playerA": {
+        "name": "Hiroshi Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "752997bbd80fe151c89ba76",
+      "time": 1773593238000,
+      "playerA": {
+        "name": "Nia Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Nia Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c55787453d961d2ad73775b5",
+      "time": 1773593498000,
+      "playerA": {
+        "name": "Luca Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "528d1d0ccd26dd343167a7",
+      "time": 1773592225000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Yuki Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5da3de3a2a52ea83764",
+      "time": 1773590564000,
+      "playerA": {
+        "name": "Elena Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4d43b94b85d6f3d894d",
+      "time": 1773591050000,
+      "playerA": {
+        "name": "Mateo Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d5616c92b0e8c6d4ad8b",
+      "time": 1773593630000,
+      "playerA": {
+        "name": "Carmen Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Elena Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ff3ccfd6ef149604e4e5d9",
+      "time": 1773592649000,
+      "playerA": {
+        "name": "Kwame Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "97522f480cf4defd7b59e5e",
+      "time": 1773592235000,
+      "playerA": {
+        "name": "Min-jun Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "187070f9814501d8d270",
+      "time": 1773592391000,
+      "playerA": {
+        "name": "Min-jun Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3162621ac9730b0637c",
+      "time": 1773592668000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Luca Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c071aebb433da7b5eb994bb2",
+      "time": 1773593134000,
+      "playerA": {
+        "name": "Luca Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4dadf5623114a3d36450837",
+      "time": 1773592298000,
+      "playerA": {
+        "name": "Min-jun Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "48a7e4f6449ccd1a243",
+      "time": 1773590838000,
+      "playerA": {
+        "name": "Min-jun Garcia",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Kwame Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0ace61f99b0e46b0e59b8d7a",
+      "time": 1773590630000,
+      "playerA": {
+        "name": "Yuki Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Tanaka",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "849dc928ebfb72d0103",
+      "time": 1773592610000,
+      "playerA": {
+        "name": "Nia Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Aiko Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "feb02e7597a9a33d144914",
+      "time": 1773592615000,
+      "playerA": {
+        "name": "Carmen Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Hiroshi Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "dcc8f6a1baec9b97b776",
+      "time": 1773593103000,
+      "playerA": {
+        "name": "Yuki Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2b455348fd17751b8f55",
+      "time": 1773590874000,
+      "playerA": {
+        "name": "Elena Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Priya Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fff6b903d72e691c259aa",
+      "time": 1773591053000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Aiko Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f4e1dd18661f1e1cc2da0f",
+      "time": 1773590691000,
+      "playerA": {
+        "name": "Priya Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "546536a77f429d46873261c2",
+      "time": 1773593829000,
+      "playerA": {
+        "name": "Mateo Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Yuki Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bf22b919c6a85c4e74",
+      "time": 1773592715000,
+      "playerA": {
+        "name": "Yuki Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Layla Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "08387d60128658c05a08",
+      "time": 1773590995000,
+      "playerA": {
+        "name": "Priya Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "942b46bc420c804d518b3fe2",
+      "time": 1773590406000,
+      "playerA": {
+        "name": "Ingrid Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a76272eb4beb5c01a16cd",
+      "time": 1773592407000,
+      "playerA": {
+        "name": "Kwame Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ab721c3fdcf1be9e8337",
+      "time": 1773592915000,
+      "playerA": {
+        "name": "Kwame Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "cd641262e1bd197fba85",
+      "time": 1773592311000,
+      "playerA": {
+        "name": "Luca Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Luca Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fcce7d0fd611231dc0613b",
+      "time": 1773593003000,
+      "playerA": {
+        "name": "Elena Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Amara Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4cb162d0f80cf210ca",
+      "time": 1773590975000,
+      "playerA": {
+        "name": "Luca Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Hiroshi Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "cb11d1f7ef1360da3852d",
+      "time": 1773593617000,
+      "playerA": {
+        "name": "Ingrid Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b26ced0385ac8bf2cf35bd9e",
+      "time": 1773592409000,
+      "playerA": {
+        "name": "Aiko Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Yuki Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f6975ecb95eb25e1b7d",
+      "time": 1773593317000,
+      "playerA": {
+        "name": "Nia Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Arjun Silva",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a9b75e5f2fb98265a4bc",
+      "time": 1773592895000,
+      "playerA": {
+        "name": "Nia Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Aiko Patel",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8d7bf8bd8b34657d408b",
+      "time": 1773590908000,
+      "playerA": {
+        "name": "Carmen Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3eb78db9e6286c012db",
+      "time": 1773591467000,
+      "playerA": {
+        "name": "Ingrid Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Nia Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "9c10c4fa2da319c82e4fc",
+      "time": 1773592140000,
+      "playerA": {
+        "name": "Carmen Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Hiroshi Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1bfc83dc2912517092d15e",
+      "time": 1773593332000,
+      "playerA": {
+        "name": "Hiroshi Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Luca Patel",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c88ff525fd95c99b80a27",
+      "time": 1773592634000,
+      "playerA": {
+        "name": "Arjun Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Priya Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0a1ac308edfc8677b2c674",
+      "time": 1773593857000,
+      "playerA": {
+        "name": "Luca Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "741c55d0b098431355ed3",
+      "time": 1773592989000,
+      "playerA": {
+        "name": "Ingrid Garcia",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "933b2df73031da79f4",
+      "time": 1773590988000,
+      "playerA": {
+        "name": "Sofia Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5039c516bf06faba59b815b",
+      "time": 1773592435000,
+      "playerA": {
+        "name": "Hiroshi Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Yuki Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b4fd5f227511d157f4",
+      "time": 1773592005000,
+      "playerA": {
+        "name": "Amara Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Sofia Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f4b35c038d7def7621",
+      "time": 1773591072000,
+      "playerA": {
+        "name": "Layla Mensah",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "efa3bf4b0d83ca0932a",
+      "time": 1773591661000,
+      "playerA": {
+        "name": "Kwame Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "07f6c4870200495493364",
+      "time": 1773592774000,
+      "playerA": {
+        "name": "Hiroshi Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3d4daa9136fd283571",
+      "time": 1773593751000,
+      "playerA": {
+        "name": "Carmen Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Elena Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "82a797675594dfb1a8e32",
+      "time": 1773593758000,
+      "playerA": {
+        "name": "Carmen Garcia",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Nia Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b9b55199a7ea7cc7ea3618d",
+      "time": 1773592554000,
+      "playerA": {
+        "name": "Luca Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Nia Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "62112ce8850ac40cf1ff28",
+      "time": 1773592703000,
+      "playerA": {
+        "name": "Aiko Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2ac8c00065a0f43a55",
+      "time": 1773593115000,
+      "playerA": {
+        "name": "Hiroshi Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Nia Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d3bf3f8b38882a4257",
+      "time": 1773590666000,
+      "playerA": {
+        "name": "Hiroshi Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a4264d4bb07965eb100",
+      "time": 1773593706000,
+      "playerA": {
+        "name": "Yuki Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Patel",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "75698b3b1eddb88b31675",
+      "time": 1773591858000,
+      "playerA": {
+        "name": "Luca Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Omar Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1da2d2003e2bcce11e91",
+      "time": 1773591802000,
+      "playerA": {
+        "name": "Nia Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bc9f3e9ca327987ce984cd0",
+      "time": 1773593679000,
+      "playerA": {
+        "name": "Mateo Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "580c2e847af8054a38",
+      "time": 1773591020000,
+      "playerA": {
+        "name": "Luca Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Kwame Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4d7187ac436c1acc06",
+      "time": 1773590621000,
+      "playerA": {
+        "name": "Kwame Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Luca Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "cee08bc21d8bceb7e0349137",
+      "time": 1773593013000,
+      "playerA": {
+        "name": "Hiroshi Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Aiko Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b4f72e0c2912485ac2293d",
+      "time": 1773590735000,
+      "playerA": {
+        "name": "Mateo Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Carmen Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2c181cfb8e12beb642ff6d7",
+      "time": 1773592933000,
+      "playerA": {
+        "name": "Layla Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Omar Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bfccedbae4bcd9a8b7f5e7c6",
+      "time": 1773591542000,
+      "playerA": {
+        "name": "Omar Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "37c135affec8ec9a58f85c",
+      "time": 1773590457000,
+      "playerA": {
+        "name": "Min-jun Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fea9bf60ff2f29b0ac6",
+      "time": 1773591428000,
+      "playerA": {
+        "name": "Nia Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Yuki Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "97d58b9e7c50f8f4670482",
+      "time": 1773591562000,
+      "playerA": {
+        "name": "Luca Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Yuki Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4b6609ec77c33b27dec4",
+      "time": 1773590863000,
+      "playerA": {
+        "name": "Sofia Müller",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a733f8629b182b3f4371feee",
+      "time": 1773592812000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Okonkwo",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "631b0b9bf3b1cef0e8544e",
+      "time": 1773593581000,
+      "playerA": {
+        "name": "Min-jun Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8a173c522e9c9883db20e",
+      "time": 1773590722000,
+      "playerA": {
+        "name": "Carmen Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d383813f5a5a7e7a2c8f0d2",
+      "time": 1773592188000,
+      "playerA": {
+        "name": "Aiko Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Arjun Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1e5ab9fb0515419ec8efdf",
+      "time": 1773591268000,
+      "playerA": {
+        "name": "Mateo Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3c14d686d04c11c8b14ce07",
+      "time": 1773592946000,
+      "playerA": {
+        "name": "Aiko Garcia",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4f0b4cebe386f160a80821eb",
+      "time": 1773590984000,
+      "playerA": {
+        "name": "Nia Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "39dfe601d135457b5f1",
+      "time": 1773591897000,
+      "playerA": {
+        "name": "Kwame Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d0e00a764a6e93ae27425daa",
+      "time": 1773593398000,
+      "playerA": {
+        "name": "Luca Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Aiko Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "910e025d4b34891382a0d",
+      "time": 1773591822000,
+      "playerA": {
+        "name": "Min-jun Silva",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3b65f7f44e724598b3682",
+      "time": 1773593467000,
+      "playerA": {
+        "name": "Hiroshi Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Nia Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "580f7a13dd0e967b317",
+      "time": 1773592156000,
+      "playerA": {
+        "name": "Hiroshi Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Aiko Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "72cf2531382cd59e0000d0b",
+      "time": 1773592582000,
+      "playerA": {
+        "name": "Amara Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Hiroshi Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b5350c42f03e55c044ca627",
+      "time": 1773591781000,
+      "playerA": {
+        "name": "Amara Chen",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8db94fed11f4dcb2ba060831",
+      "time": 1773593902000,
+      "playerA": {
+        "name": "Mateo Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Luca Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0f43dea3d4f70dc0c7",
+      "time": 1773593442000,
+      "playerA": {
+        "name": "Hiroshi Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "9a0c8bf63b88195be4",
+      "time": 1773590776000,
+      "playerA": {
+        "name": "Elena Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Ingrid Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b8e44621c66fe90818",
+      "time": 1773593432000,
+      "playerA": {
+        "name": "Luca Silva",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "083dd15ba6eeaf287e",
+      "time": 1773590729000,
+      "playerA": {
+        "name": "Min-jun Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e32f22c10177faeaeed62",
+      "time": 1773591896000,
+      "playerA": {
+        "name": "Elena Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "472b465cd68888b28d9bc5",
+      "time": 1773591006000,
+      "playerA": {
+        "name": "Ingrid Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d53d42a11fa1a3cccd",
+      "time": 1773591404000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "db965b063eb736a242a0628b",
+      "time": 1773590565000,
+      "playerA": {
+        "name": "Amara Johansson",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "56f9f39a1d9c99f5c319ad8",
+      "time": 1773592159000,
+      "playerA": {
+        "name": "Carmen Patel",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Layla Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f07ddfd1850440471d16c2",
+      "time": 1773592090000,
+      "playerA": {
+        "name": "Amara Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fc6a1ed431f491b55996e55",
+      "time": 1773590660000,
+      "playerA": {
+        "name": "Yuki Silva",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Carmen Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a774a602873cf6dfe4dd84",
+      "time": 1773593726000,
+      "playerA": {
+        "name": "Aiko Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Luca Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "cab1fa4e2ec02cb097",
+      "time": 1773591731000,
+      "playerA": {
+        "name": "Elena Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Layla Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "75af99c3fc97439610808a",
+      "time": 1773592019000,
+      "playerA": {
+        "name": "Elena Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2c08d7d0f780f40c38a69046",
+      "time": 1773590598000,
+      "playerA": {
+        "name": "Kwame Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Elena Patel",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d6e6bcf2a6ad875b4df7a",
+      "time": 1773592472000,
+      "playerA": {
+        "name": "Layla Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Okonkwo",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7b31be61a744deb975",
+      "time": 1773593636000,
+      "playerA": {
+        "name": "Mateo Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b7b904d8a601914ada00a98",
+      "time": 1773590937000,
+      "playerA": {
+        "name": "Yuki Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Patel",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d50e4697196d6b022d2f3d7a",
+      "time": 1773591184000,
+      "playerA": {
+        "name": "Arjun Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Kim",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b2d4a535b4e34095d3c12",
+      "time": 1773593474000,
+      "playerA": {
+        "name": "Sofia Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Hiroshi Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "67d341a372c77a098f59",
+      "time": 1773592443000,
+      "playerA": {
+        "name": "Priya Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Johansson",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d11f9a447be980ab9f",
+      "time": 1773591107000,
+      "playerA": {
+        "name": "Nia Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Hiroshi Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "69f051d466c36358b66c148",
+      "time": 1773591477000,
+      "playerA": {
+        "name": "Amara Garcia",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7f5e01ce19a937de7a",
+      "time": 1773592393000,
+      "playerA": {
+        "name": "Priya Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Luca Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "4326887fc5e705f1f9fcb",
+      "time": 1773592907000,
+      "playerA": {
+        "name": "Priya Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Kwame Tanaka",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d983f5802fb73143f5ed",
+      "time": 1773593731000,
+      "playerA": {
+        "name": "Luca Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "3582ac7a3ee4b849d8",
+      "time": 1773592195000,
+      "playerA": {
+        "name": "Kwame Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Yuki Mensah",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7d84c87dd9b2c0bc936",
+      "time": 1773591508000,
+      "playerA": {
+        "name": "Layla Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Ingrid Müller",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bd62afa7157dec191dd",
+      "time": 1773591690000,
+      "playerA": {
+        "name": "Kwame Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Amara Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "10e16741b325a7cf45",
+      "time": 1773590904000,
+      "playerA": {
+        "name": "Elena Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Arjun Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "08c22e51b9800384be020",
+      "time": 1773593755000,
+      "playerA": {
+        "name": "Elena Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Priya Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7b4b702731c7a9464128bcb2",
+      "time": 1773593754000,
+      "playerA": {
+        "name": "Elena Kim",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Kwame Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "491d8c4fe33255bd797",
+      "time": 1773593798000,
+      "playerA": {
+        "name": "Carmen Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "45e9f4675e9f86ac56b",
+      "time": 1773592930000,
+      "playerA": {
+        "name": "Amara Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "352292ff0b9f3e535d0",
+      "time": 1773590971000,
+      "playerA": {
+        "name": "Elena Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f2365a3350d65359644",
+      "time": 1773590503000,
+      "playerA": {
+        "name": "Ingrid Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Mateo Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "fa228bbf1829bf65a9a46e",
+      "time": 1773591489000,
+      "playerA": {
+        "name": "Arjun Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Sofia Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6fbc7486a63ada762527fd",
+      "time": 1773590860000,
+      "playerA": {
+        "name": "Layla Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Omar Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "8c2719e767886f77fb",
+      "time": 1773591100000,
+      "playerA": {
+        "name": "Luca Okonkwo",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Carmen Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c75adc9d2ecf95efc465a",
+      "time": 1773590599000,
+      "playerA": {
+        "name": "Hiroshi Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "b38f3d3ca2dca5cc8e3990",
+      "time": 1773593226000,
+      "playerA": {
+        "name": "Yuki Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Ingrid Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a0d9fbcf4c4968f427892bf4",
+      "time": 1773593537000,
+      "playerA": {
+        "name": "Sofia Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Ingrid Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e149cc32a3f896e5620",
+      "time": 1773592269000,
+      "playerA": {
+        "name": "Arjun Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Carmen Chen",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d5b42eb322157450b6dbf22",
+      "time": 1773591117000,
+      "playerA": {
+        "name": "Amara Müller",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Elena Patel",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7e9d19eb8a0e00ecd290b4",
+      "time": 1773592583000,
+      "playerA": {
+        "name": "Kwame Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "95a080a730eb20ced05db5",
+      "time": 1773590444000,
+      "playerA": {
+        "name": "Kwame Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f2cdb984f4546f9c00121843",
+      "time": 1773593786000,
+      "playerA": {
+        "name": "Min-jun Tanaka",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Kwame Müller",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "d3e3517beb6fb84ee41ba89",
+      "time": 1773591828000,
+      "playerA": {
+        "name": "Kwame Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Elena Chen",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "5a523bfe589fbc7041",
+      "time": 1773592976000,
+      "playerA": {
+        "name": "Nia Patel",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Chen",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a95dcb52bcb511451f",
+      "time": 1773592493000,
+      "playerA": {
+        "name": "Ingrid Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Mateo Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "df8672273b2263f0a1c8",
+      "time": 1773592740000,
+      "playerA": {
+        "name": "Omar Patel",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "837050cbe8f0d3b431d302b4",
+      "time": 1773591949000,
+      "playerA": {
+        "name": "Kwame Mensah",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Mateo Patel",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "bc3a45fb57211f00ac",
+      "time": 1773592799000,
+      "playerA": {
+        "name": "Omar Patel",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Sofia Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "37b0af8a1dd7c226b862b",
+      "time": 1773592351000,
+      "playerA": {
+        "name": "Carmen Tanaka",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Min-jun Johansson",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "6d6f14e905c0517193639f",
+      "time": 1773593439000,
+      "playerA": {
+        "name": "Arjun Tanaka",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Carmen Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "57458f11ba07067b6b1d16",
+      "time": 1773592743000,
+      "playerA": {
+        "name": "Min-jun Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Amara Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "59701700d4d37af1e80",
+      "time": 1773591173000,
+      "playerA": {
+        "name": "Ingrid Kim",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Ingrid Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "f733651ddb859586c212c221",
+      "time": 1773592265000,
+      "playerA": {
+        "name": "Omar Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Aiko Silva",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ffe727a9f37b6cd6d1fa1",
+      "time": 1773591247000,
+      "playerA": {
+        "name": "Omar Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Elena Patel",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "01f88fdaaeecc06a841c",
+      "time": 1773592285000,
+      "playerA": {
+        "name": "Aiko Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Okonkwo",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "430cbb7bff276c0567705",
+      "time": 1773592716000,
+      "playerA": {
+        "name": "Aiko Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Arjun Garcia",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a431eb252d1074342829af",
+      "time": 1773593598000,
+      "playerA": {
+        "name": "Priya Silva",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Sofia Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "03115ea5bd35ccdd087645a",
+      "time": 1773592521000,
+      "playerA": {
+        "name": "Arjun Okonkwo",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Kwame Kim",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "424e3a86213b7c907fb6cacc",
+      "time": 1773592122000,
+      "playerA": {
+        "name": "Aiko Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Garcia",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "0aba7cda425a38b78795302",
+      "time": 1773591875000,
+      "playerA": {
+        "name": "Yuki Silva",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Mateo Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c5ca8f16c6233569bcf182c",
+      "time": 1773593208000,
+      "playerA": {
+        "name": "Omar Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Elena Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "2336f83de01c389ecd0e8",
+      "time": 1773590761000,
+      "playerA": {
+        "name": "Hiroshi Patel",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Amara Tanaka",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "14397121cd85c017a0",
+      "time": 1773590669000,
+      "playerA": {
+        "name": "Layla Mensah",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Layla Mensah",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c5b0e3a63d3010eff84d97",
+      "time": 1773590588000,
+      "playerA": {
+        "name": "Omar Garcia",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Min-jun Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "06e747821eac902fc0",
+      "time": 1773593515000,
+      "playerA": {
+        "name": "Luca Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Luca Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "916fa5c84193b075ea0f2e71",
+      "time": 1773593775000,
+      "playerA": {
+        "name": "Nia Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Ingrid Silva",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "a1de45a99dc8a83741b07",
+      "time": 1773592275000,
+      "playerA": {
+        "name": "Kwame Johansson",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Arjun Mensah",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "ae8b47e95aef2018c095805",
+      "time": 1773590429000,
+      "playerA": {
+        "name": "Min-jun Chen",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Aiko Johansson",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "c22caa9359898d07416a3d",
+      "time": 1773592632000,
+      "playerA": {
+        "name": "Amara Johansson",
+        "played": "SCISSORS"
+      },
+      "playerB": {
+        "name": "Hiroshi Tanaka",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "1938752e7698664d35b0b",
+      "time": 1773592382000,
+      "playerA": {
+        "name": "Elena Patel",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Kwame Müller",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "37a5f9af79d4cfb298",
+      "time": 1773592202000,
+      "playerA": {
+        "name": "Carmen Kim",
+        "played": "ROCK"
+      },
+      "playerB": {
+        "name": "Min-jun Garcia",
+        "played": "SCISSORS"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "7fc7c837613fb6415c7",
+      "time": 1773590501000,
+      "playerA": {
+        "name": "Sofia Chen",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Sofia Patel",
+        "played": "ROCK"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "e2e084a5a837b812eb66764f",
+      "time": 1773592550000,
+      "playerA": {
+        "name": "Arjun Okonkwo",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Layla Kim",
+        "played": "PAPER"
+      }
+    },
+    {
+      "type": "GAME_RESULT",
+      "gameId": "61b7d9ce1d09ba2b54e45",
+      "time": 1773591684000,
+      "playerA": {
+        "name": "Layla Müller",
+        "played": "PAPER"
+      },
+      "playerB": {
+        "name": "Omar Silva",
+        "played": "PAPER"
+      }
+    }
+  ],
+  "cursor": "/history?cursor=hLqOb1EZqLOe"
+}
