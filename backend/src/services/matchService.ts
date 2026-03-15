@@ -38,6 +38,20 @@ export class MatchService {
    *
    * @param playerName  Exact display name of the player (case-sensitive).
    */
+  async getMatchesByDateRange(startDate: string, endDate: string): Promise<MatchResult[]> {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(startDate)) {
+      throw new Error(`Invalid startDate format: "${startDate}". Expected YYYY-MM-DD.`);
+    }
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(endDate)) {
+      throw new Error(`Invalid endDate format: "${endDate}". Expected YYYY-MM-DD.`);
+    }
+    if (startDate > endDate) {
+      throw new Error('startDate must not be after endDate.');
+    }
+    await getStore().ready;
+    return getStore().getByDateRange(startDate, endDate).map(toMatchResult);
+  }
+
   async getMatchesByPlayer(playerName: string): Promise<MatchResult[]> {
     if (!playerName || playerName.trim() === '') {
       throw new Error('playerName must not be empty.');

@@ -64,6 +64,30 @@ router.get('/day', async (req: Request, res: Response, next: NextFunction) => {
 });
 
 // ---------------------------------------------------------------------------
+// GET /api/matches/range?startDate=YYYY-MM-DD&endDate=YYYY-MM-DD
+// ---------------------------------------------------------------------------
+router.get('/range', async (req: Request, res: Response, next: NextFunction) => {
+  try {
+    const startDate = req.query['startDate'] as string | undefined;
+    const endDate = req.query['endDate'] as string | undefined;
+
+    if (!startDate || !endDate) {
+      res.status(400).json({ error: 'startDate and endDate query parameters are required (YYYY-MM-DD)' });
+      return;
+    }
+
+    const matches = await matchService.getMatchesByDateRange(startDate, endDate);
+    res.json({ data: matches, count: matches.length, startDate, endDate });
+  } catch (err) {
+    if (err instanceof Error && (err.message.startsWith('Invalid') || err.message.startsWith('startDate'))) {
+      res.status(400).json({ error: err.message });
+      return;
+    }
+    next(err);
+  }
+});
+
+// ---------------------------------------------------------------------------
 // GET /api/players/:name/matches
 // ---------------------------------------------------------------------------
 /**

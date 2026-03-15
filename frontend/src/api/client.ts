@@ -1,223 +1,117 @@
-/**
- * React API client — function signatures for all backend endpoints.
- *
- * All functions target the backend running at BASE_URL.  Implementations
- * are left as stubs (throw new Error('not implemented')) so that the type
- * contracts are established and can be wired up incrementally.
- *
- * TODO: replace each `throw new Error('not implemented')` body with a real
- *       fetch/axios call once the backend is reachable from the frontend.
- */
-
 import type {
-  ApiListResponse,
   LeaderboardEntry,
   MatchResult,
   MatchesByDayResponse,
   MatchesByPlayerResponse,
   RangeLeaderboardResponse,
   TodayLeaderboardResponse,
+  ApiListResponse,
 } from './types';
 
-// ---------------------------------------------------------------------------
-// Configuration
-// ---------------------------------------------------------------------------
+const BASE_URL = (import.meta as { env?: { VITE_API_URL?: string } }).env?.VITE_API_URL ?? 'http://localhost:3001';
 
-/**
- * Base URL of the backend API.
- *
- * TODO: load this from an environment variable (e.g. REACT_APP_API_URL or
- *       VITE_API_URL) so it can be overridden per environment.
- */
-const BASE_URL = process.env['REACT_APP_API_URL'] ?? 'http://localhost:3001';
-
-// ---------------------------------------------------------------------------
-// Helper types
-// ---------------------------------------------------------------------------
-
-/** Options accepted by the live-match subscription. */
-export interface LiveSubscriptionOptions {
-  /** Called when the SSE connection is first established. */
-  onOpen?: () => void;
-  /** Called when the SSE connection closes or errors. */
-  onClose?: () => void;
+async function apiFetch<T>(path: string): Promise<T> {
+  const res = await fetch(`${BASE_URL}${path}`);
+  if (!res.ok) {
+    const body = await res.json().catch(() => ({}));
+    throw new Error((body as { error?: string }).error ?? `HTTP ${res.status}`);
+  }
+  return res.json() as Promise<T>;
 }
 
 // ---------------------------------------------------------------------------
 // Match endpoints
 // ---------------------------------------------------------------------------
 
-/**
- * Fetch the most-recently played matches.
- *
- * @param limit  Maximum number of results to return (default determined by server).
- * @returns      Array of MatchResult objects sorted newest-first.
- *
- * Calls: GET /api/matches?limit=<limit>
- *
- * TODO: implement using fetch or axios.
- */
-export async function getLatestMatches(
-  limit?: number,
-): Promise<MatchResult[]> {
-  // TODO: implement
-  //   const params = limit !== undefined ? `?limit=${limit}` : '';
-  //   const res = await fetch(`${BASE_URL}/api/matches${params}`);
-  //   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  //   const body: ApiListResponse<MatchResult> = await res.json();
-  //   return body.data;
-  throw new Error('not implemented');
+export async function getLatestMatches(limit = 50): Promise<MatchResult[]> {
+  const body = await apiFetch<ApiListResponse<MatchResult>>(`/api/matches?limit=${limit}`);
+  return body.data;
 }
 
-/**
- * Fetch all matches played on a specific calendar day (UTC).
- *
- * @param date  Date string in YYYY-MM-DD format.
- * @returns     Array of MatchResult objects for that day, sorted newest-first.
- *
- * Calls: GET /api/matches/day?date=<date>
- *
- * TODO: implement.
- */
-export async function getMatchesByDay(
-  date: string,
-): Promise<MatchResult[]> {
-  // TODO: implement
-  //   const res = await fetch(`${BASE_URL}/api/matches/day?date=${encodeURIComponent(date)}`);
-  //   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  //   const body: MatchesByDayResponse = await res.json();
-  //   return body.data;
-  throw new Error('not implemented');
+export async function getMatchesByDay(date: string): Promise<MatchResult[]> {
+  const body = await apiFetch<MatchesByDayResponse>(
+    `/api/matches/day?date=${encodeURIComponent(date)}`,
+  );
+  return body.data;
 }
 
-/**
- * Fetch all matches in which a given player participated.
- *
- * @param playerName  Exact display name of the player.
- * @returns           Array of MatchResult objects, sorted newest-first.
- *
- * Calls: GET /api/players/<playerName>/matches
- *
- * TODO: implement.
- */
-export async function getMatchesByPlayer(
-  playerName: string,
+export async function getMatchesByDateRange(
+  startDate: string,
+  endDate: string,
 ): Promise<MatchResult[]> {
-  // TODO: implement
-  //   const res = await fetch(
-  //     `${BASE_URL}/api/players/${encodeURIComponent(playerName)}/matches`,
-  //   );
-  //   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  //   const body: MatchesByPlayerResponse = await res.json();
-  //   return body.data;
-  throw new Error('not implemented');
+  const body = await apiFetch<ApiListResponse<MatchResult>>(
+    `/api/matches/range?startDate=${encodeURIComponent(startDate)}&endDate=${encodeURIComponent(endDate)}`,
+  );
+  return body.data;
+}
+
+export async function getMatchesByPlayer(playerName: string): Promise<MatchResult[]> {
+  const body = await apiFetch<MatchesByPlayerResponse>(
+    `/api/players/${encodeURIComponent(playerName)}/matches`,
+  );
+  return body.data;
 }
 
 // ---------------------------------------------------------------------------
 // Leaderboard endpoints
 // ---------------------------------------------------------------------------
 
-/**
- * Fetch the leaderboard for today (UTC calendar day).
- *
- * @returns  Array of LeaderboardEntry objects, sorted by wins descending.
- *
- * Calls: GET /api/leaderboard/today
- *
- * TODO: implement.
- */
 export async function getTodayLeaderboard(): Promise<LeaderboardEntry[]> {
-  // TODO: implement
-  //   const res = await fetch(`${BASE_URL}/api/leaderboard/today`);
-  //   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  //   const body: TodayLeaderboardResponse = await res.json();
-  //   return body.data;
-  throw new Error('not implemented');
+  const body = await apiFetch<TodayLeaderboardResponse>('/api/leaderboard/today');
+  return body.data;
 }
 
-/**
- * Fetch the leaderboard aggregated over a date range.
- *
- * @param startDate  Start date in YYYY-MM-DD format (inclusive, UTC).
- * @param endDate    End date in YYYY-MM-DD format (inclusive, UTC).
- * @returns          Array of LeaderboardEntry objects, sorted by wins descending.
- *
- * Calls: GET /api/leaderboard?startDate=<startDate>&endDate=<endDate>
- *
- * TODO: implement.
- */
+export async function getLeaderboardByDate(date: string): Promise<LeaderboardEntry[]> {
+  const body = await apiFetch<RangeLeaderboardResponse>(
+    `/api/leaderboard?startDate=${encodeURIComponent(date)}&endDate=${encodeURIComponent(date)}`,
+  );
+  return body.data;
+}
+
 export async function getLeaderboardByDateRange(
   startDate: string,
   endDate: string,
 ): Promise<LeaderboardEntry[]> {
-  // TODO: implement
-  //   const res = await fetch(
-  //     `${BASE_URL}/api/leaderboard?startDate=${encodeURIComponent(startDate)}&endDate=${encodeURIComponent(endDate)}`,
-  //   );
-  //   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  //   const body: RangeLeaderboardResponse = await res.json();
-  //   return body.data;
-  throw new Error('not implemented');
+  const body = await apiFetch<RangeLeaderboardResponse>(
+    `/api/leaderboard?startDate=${encodeURIComponent(startDate)}&endDate=${encodeURIComponent(endDate)}`,
+  );
+  return body.data;
 }
 
 // ---------------------------------------------------------------------------
-// Live SSE endpoint
+// Live SSE
 // ---------------------------------------------------------------------------
 
-/**
- * Subscribe to the real-time match stream via Server-Sent Events.
- *
- * Opens an EventSource connection to GET /api/live.  Each incoming event
- * is parsed as a MatchResult and passed to `onMatch`.
- *
- * @param onMatch   Called with each MatchResult received from the stream.
- * @param options   Optional lifecycle callbacks (onOpen, onClose).
- * @returns         A cleanup function — call it to close the EventSource.
- *
- * Usage:
- *   const unsubscribe = subscribeToLiveMatches((match) => {
- *     setMatches((prev) => [match, ...prev]);
- *   });
- *   // On component unmount:
- *   return () => unsubscribe();
- *
- * TODO: implement.
- */
+export interface LiveSubscriptionOptions {
+  onOpen?: () => void;
+  onClose?: () => void;
+}
+
 export function subscribeToLiveMatches(
   onMatch: (match: MatchResult) => void,
   options?: LiveSubscriptionOptions,
 ): () => void {
-  // TODO: implement
-  //   const es = new EventSource(`${BASE_URL}/api/live`);
-  //
-  //   es.onopen = () => options?.onOpen?.();
-  //
-  //   es.addEventListener('match', (event: MessageEvent) => {
-  //     try {
-  //       const match: MatchResult = JSON.parse(event.data);
-  //       onMatch(match);
-  //     } catch {
-  //       console.error('Failed to parse live match event', event.data);
-  //     }
-  //   });
-  //
-  //   es.addEventListener('error', (event: MessageEvent) => {
-  //     console.error('SSE error event', event);
-  //   });
-  //
-  //   es.onerror = () => {
-  //     options?.onClose?.();
-  //     es.close();
-  //   };
-  //
-  //   return () => {
-  //     es.close();
-  //     options?.onClose?.();
-  //   };
-  throw new Error('not implemented');
+  const es = new EventSource(`${BASE_URL}/api/live`);
+
+  es.onopen = () => options?.onOpen?.();
+
+  es.addEventListener('match', (event: MessageEvent) => {
+    try {
+      onMatch(JSON.parse(event.data as string) as MatchResult);
+    } catch {
+      console.error('[SSE] Failed to parse match event', event.data);
+    }
+  });
+
+  es.onerror = () => {
+    options?.onClose?.();
+    es.close();
+  };
+
+  return () => {
+    es.close();
+    options?.onClose?.();
+  };
 }
 
-// ---------------------------------------------------------------------------
-// Re-exports for convenience
-// ---------------------------------------------------------------------------
 export type { MatchResult, LeaderboardEntry } from './types';
